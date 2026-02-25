@@ -40,7 +40,7 @@ Importar o arquivo .sql do projeto (se disponível);
 Configurar as credenciais do banco de dados no arquivo de conexão PHP
 
 - Acessar no navegador:
-http://localhost/motorhub
+http://localhost/motorhub-ranking-carros
 
 - Objetivo do Projeto: 
 Aplicar conceitos de:
