@@ -1,7 +1,7 @@
 - MotorHub – Sistema Web de Catálogo de Veículos
 - Descrição:
 O MotorHub é um sistema web desenvolvido para exibição e gerenciamento de veículos, com foco nos carros mais rápidos e mais lentos do mundo.
-O projeto permite cadastro, edição e exclusão de veículos por meio de uma área administrativa, incluindo upload de imagens e armazenamento em banco de dados.
+O projeto permite cadastro, edição e exclusão de veículos por meio de uma área administrativa, incluindo upload de imagens e, implementação de validação básica de dados e manipulação segura de informações no backend e armazenamento em banco de dados.
 Foi desenvolvido com o objetivo de aplicar conceitos de desenvolvimento web full stack utilizando PHP e MySQL.
 
 - Tecnologias Utilizadas:
